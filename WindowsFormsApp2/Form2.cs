@@ -19,7 +19,7 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Bravaa");
+            MessageBox.Show("yok artık");
         }
     }
 }
